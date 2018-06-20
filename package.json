@@ -1,0 +1,19 @@
+{
+  "name": "egghead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Ender Aydin Orak"
+  },
+  "scripts": {
+    "egghead": "node src/app.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.4.0",
+    "command-line-args": "5.0.2",
+    "command-line-usage": "5.0.5",
+    "download": "7.0.0",
+    "node-env-file": "0.1.8"
+  }
+}
